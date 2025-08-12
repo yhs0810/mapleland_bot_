@@ -1,0 +1,3 @@
+autocommit=True 
+READ COMMITTED
+셋팅해줘야 데이터 즉시읽고 로그인그런거 바로처리함
